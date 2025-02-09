@@ -14,7 +14,7 @@ I'm Sai Vignesh, a passionate developer and aspiring machine learning enthusiast
 - **Email Management System:** Automated email classification and spam removal system that unsubscribes from unwanted emails and deletes spam.<br><br>### Let's Connect! 🤝<br>I'm always open to collaborate on interesting projects or discuss new ideas! Feel free to connect with me via [LinkedIn]( https://www.linkedin.com/in/saivigneshbadugu528218236) or reach out through GitHub.<br><br>
 
 ## 📫 Connect With Me
-- **LinkedIn**: [Sai Vignesh Badugu](https://www.linkedin.com/in/saivigneshbadugu528218236)
+- **LinkedIn**: [Sai Vignesh Badugu](https://www.linkedin.com/in/saivigneshbadugu)
 - **Email**: [saivigneshbadugu143@gmail.com](mailto:saivigneshbadugu143@gmail.com)
 - **GitHub**: [SaiVignesh2407s](https://github.com/saivignesh2407s)
 
