@@ -1,8 +1,26 @@
 # 💫 About Me:
 I'm Sai Vignesh, a passionate developer and aspiring machine learning enthusiast. Currently a final year student graduating in 2025, I'm constantly exploring new technologies and love building projects that solve real-world problems. I'm an aspiring Software Engineer and AI/ML enthusiast currently pursuing my undergraduate degree in Computer Science with a specialization in AI & ML at VBIT. Passionate about Machine Learning, Data Analytics, and Web Development, I love building innovative solutions using technology.
 
+
+Machine Learning, Data Analytics, and Web Development, I love building innovative solutions using technology.
+
+🔥 Skills & Technologies
+
+Programming Languages: Python, Java, C++
+
+Machine Learning & AI: TensorFlow, PyTorch, Scikit-Learn
+
+Web Development: HTML, CSS, JavaScript, React.js
+
+Databases: MySQL, PostgreSQL
+
+Other Tools: Git, GitHub, Docker, Jupyter Notebook
+
+📌 Projects
+
+
 <br>
-# **Skills & Interests** 🛠️
+# Skills & Interests 🛠️
 <br>- Machine Learning & AI (Text-to-Speech, Image Classification)<br>- MATLAB (Data Processing, Analysis)<br>- Python, TensorFlow, Keras<br>- Computer Vision (Fire Detection, Medicinal Plant Identification)<br>- Web Development<br>- Git & GitHub for Version Control<br><br># **Projects 🚀**<br><br>- Medicinal Plant Identification using ResNet CNN: An automated system to identify medicinal plants from images and provide detailed information on their benefits and origins. Uses deep learning for accurate classification.<br>- Text-to-Speech Conversion using Machine Learning: Developed a project to convert text to speech using neural networks, optimized for high accuracy.<br>- Email Management System: Automated email classification and spam removal system that unsubscribes from unwanted emails and deletes spam.<br><br>### Let's Connect! 🤝<br>I'm always open to collaborate on interesting projects or discuss new ideas! Feel free to connect with me via [LinkedIn]( https://www.linkedin.com/in/saivigneshbadugu528218236) or reach out through GitHub.<br><br>
 
 
